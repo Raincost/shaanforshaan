@@ -36,7 +36,20 @@ body{
     margin:10px 20px 20px 20px;
 }
 
+.message{
+width: auto;
+height:50px;
+margin: 100px auto 10px auto;
+color:white;
+border-style:solid;
+border-color: white;
+background-color: rgba(0,0,0,0.5);
+}
+
+
 /*background-position: 25% 75% means the spot on the image that is 25% 
 from the left and 75% from the top will be placed at the spot of the 
 container that is 25% from the container's left and 75% from the container's top.*/
-
+.message h1{
+    font-color
+}
